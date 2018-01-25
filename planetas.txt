@@ -9,3 +9,5 @@ Jupter
 Rey
 Finn
 Kylo Ren
+Minor
+Over
